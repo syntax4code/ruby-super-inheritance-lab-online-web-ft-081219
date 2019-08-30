@@ -6,14 +6,8 @@ Did you watch The Walking Dead last night? You didn't?! Oh man, it was so crazy!
 Okay well let me just tell you who died..."
 end
 def raise_hand
-  super
-  super
-  super
-  super
-  super
-  super
-  super
-  super
-  super
-  super
+  10.times do
+      super
 end
+end
+end 
